@@ -12,5 +12,4 @@ My focus is building reliable hardware, writing efficient firmware, and integrat
 ## 📌 Selected Projects
 - **BLDC Motor Driver – STM32G474**
 - **PMSM Motor Driver for EV**  
-- **High-Voltage Buck Converter**  
 - **STM32 Capture the Flag Game**  
