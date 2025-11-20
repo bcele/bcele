@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Burak 👋  
+Embedded Hardware & Software Engineer
 
-<!--
-**bcele/bcele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I work on embedded software & hardware design.  
+My focus is building reliable hardware, writing efficient firmware, and integrating both into complete systems.
 
-Here are some ideas to get you started:
+## 🔧 Areas of Interest
+- Embedded Software
+- PCB design (EAGLE)
+- Motor drivers & power electronics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Selected Projects
+- **BLDC Motor Driver – STM32G474**
+- **PMSM Motor Driver for EV**  
+- **High-Voltage Buck Converter**  
+- **STM32 Capture the Flag Game**  
+- **Bluetooth-Controlled Autonomous Vehicle**
