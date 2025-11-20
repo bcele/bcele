@@ -1,5 +1,5 @@
 # Hi, I'm Burak 👋  
-Embedded Hardware & Software Engineer
+Electronics Engineer
 
 I work on embedded software & hardware design.  
 My focus is building reliable hardware, writing efficient firmware, and integrating both into complete systems.
