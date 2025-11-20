@@ -14,4 +14,3 @@ My focus is building reliable hardware, writing efficient firmware, and integrat
 - **PMSM Motor Driver for EV**  
 - **High-Voltage Buck Converter**  
 - **STM32 Capture the Flag Game**  
-- **Bluetooth-Controlled Autonomous Vehicle**
